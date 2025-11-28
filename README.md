@@ -8,8 +8,8 @@ Beginner Python & Web Developer • Learning Everyday • Building Small Project
 
 ## 👨‍💻 About Me  
 I'm a Python and web development enthusiast from Andhra Pradesh.  
-I enjoy learning new technologies and building simple, useful applications.  
-Currently improving my skills in Python, JavaScript, MySQL, and React.
+I enjoy learning new technologies, building beginner projects, and improving my coding skills.  
+Currently focusing on Python, JavaScript, MySQL, and Web Scraping.
 
 ---
 
@@ -21,9 +21,8 @@ Currently improving my skills in Python, JavaScript, MySQL, and React.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔹 Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🔹 Tools & Skills  
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -35,10 +34,10 @@ Currently improving my skills in Python, JavaScript, MySQL, and React.
 A simple front-end clone made using HTML & CSS.
 
 ### 🔸 Consultancy Website  
-A basic consultancy webpage layout.
+Basic consultancy webpage layout.
 
 ### 🔸 Hospital Management System  
-A beginner-level project using JavaScript for simple workflow logic.
+A beginner-level JavaScript project demonstrating simple workflow logic.
 
 ---
 
@@ -51,7 +50,8 @@ A beginner-level project using JavaScript for simple workflow logic.
 
 ---
 
-## 🔗 Connect With Me  
+## 📫 Contact  
+📧 **Email:** saipavanetikala5@gmail.com  
 📸 **Instagram:** @etikalasaipavan  
 💻 **HackerRank:** https://www.hackerrank.com/profile/azbysai  
 
