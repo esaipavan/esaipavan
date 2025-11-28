@@ -7,9 +7,7 @@ I enjoy building simple and useful projects using Python, HTML, CSS, JavaScript,
 
 ## 🚀 Skills
 - Python  
-- HTML, CSS, JavaScript  
-- React (Basics)  
-- Flask  
+- HTML, CSS, JavaScript 
 - MySQL  
 
 ---
@@ -23,6 +21,6 @@ I enjoy building simple and useful projects using Python, HTML, CSS, JavaScript,
 
 ## 📫 Contact
 - Instagram: @etikalasaipavan  
-- HackerRank: https://www.hackerrank.com/profile/azbysai  
+- HackerRank: https://www.hackerrank.com/profile/etikalasaipavan 
 
 ---
