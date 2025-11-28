@@ -21,6 +21,7 @@ I enjoy building simple and useful projects using Python, HTML, CSS, JavaScript,
 
 ## 📫 Contact
 - Instagram: @etikalasaipavan  
-- HackerRank: https://www.hackerrank.com/profile/etikalasaipavan 
+- HackerRank: https://www.hackerrank.com/profile/etikalasaipavan
+- Linkedin : https://www.linkedin.com/in/esaipavan/
 
 ---
