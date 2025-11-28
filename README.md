@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Etikala Sai Pavan
 
-<!--
-**esaipavan/esaipavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer and BBA graduate from Andhra Pradesh.  
+I enjoy building simple and useful projects using Python, HTML, CSS, JavaScript, and MySQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python  
+- HTML, CSS, JavaScript  
+- React (Basics)  
+- Flask  
+- MySQL  
+
+---
+
+## 📂 Projects
+- **Paytm Clone** – Frontend UI using HTML & CSS  
+- **Consultancy Website** – Basic UI design  
+- **Hospital Management System** – JavaScript-based structure  
+
+---
+
+## 📫 Contact
+- Instagram: @etikalasaipavan  
+- HackerRank: https://www.hackerrank.com/profile/azbysai  
+
+---
