@@ -53,7 +53,7 @@ A beginner-level JavaScript project demonstrating simple workflow logic.
 ## 📫 Contact  
 📧 **Email:** saipavanetikala5@gmail.com  
 📸 **Instagram:** @etikalasaipavan  
-💻 **HackerRank:** https://www.hackerrank.com/profile/azbysai  
+💻 **HackerRank:** https://www.hackerrank.com/profile/azbysaipavan 
 
 ---
 
