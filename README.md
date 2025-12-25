@@ -1,60 +1,56 @@
-<h1 align="center">👋 Hi, I'm Etikala Sai Pavan</h1>
+<h1 align="center">Hi 👋, I'm Etikala Sai Pavan</h1>
+<h3 align="center">Python & Web Development Learner | Database & Data Enthusiast</h3>
 
 <p align="center">
-Beginner Python & Web Developer • Learning Everyday • Building Small Projects
+I’m passionate about learning programming and building simple, real-world projects.
+Focused on Python, databases, and beginner-level data science.
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-I'm a Python and web development enthusiast from Andhra Pradesh.  
-I enjoy learning new technologies, building beginner projects, and improving my coding skills.  
-Currently focusing on Python, JavaScript, MySQL, and Web Scraping.
+## 👨‍💻 About Me
+- 🎓 BBA Graduate  
+- 🐍 Learning Python for development & data tasks  
+- 🗄️ Interested in **MySQL & Database Management Systems**  
+- 🌐 Exploring **Web Development & Web Scraping**  
+- 📈 Beginner in **Data Science concepts**  
+- 🚀 Improving skills by building small projects regularly  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔹 Tools & Skills  
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+</p>
 
 ---
 
 ## 📂 Projects
-
-### 🔸 Paytm UI Clone  
-A simple front-end clone made using HTML & CSS.
-
-### 🔸 Consultancy Website  
-Basic consultancy webpage layout.
-
-### 🔸 Hospital Management System  
-A beginner-level JavaScript project demonstrating simple workflow logic.
+- **Paytm UI Clone** – HTML & CSS based frontend project  
+- **Consultancy Website** – Simple responsive webpage  
+- **Hospital Management System** – Beginner JavaScript project  
+- **Web Scraping Scripts** – Python scripts to extract website data  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esaipavan&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaipavan&layout=compact&theme=tokyonight" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esaipavan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaipavan&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📫 Contact  
-📧 **Email:** saipavanetikala5@gmail.com  
-💻 **HackerRank:** https://www.hackerrank.com/profile/etikalasaipavan
-💻 **Linkedin:** https://www.linkedin.com/in/esaipavan/ 
+## 📫 Connect With Me
+<img src="https://img.icons8.com/color/20/gmail-new.png"/> saipavanetikala5@gmail.com  
+💻 HackerRank: https://www.hackerrank.com/profile/azbysai  
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile!</h3>
+⭐ *Building consistently. Learning every day.*
