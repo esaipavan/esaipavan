@@ -34,7 +34,8 @@ Focused on Python, databases, and beginner-level data science.
 - **Paytm UI Clone** – HTML & CSS based frontend project  
 - **Consultancy Website** – Simple responsive webpage  
 - **Hospital Management System** – Beginner JavaScript project  
-- **Web Scraping Scripts** – Python scripts to extract website data  
+- **Web Scraping Scripts** – Python scripts to extract website data
+- **Calculator** – Beginner-friendly web calculator using HTML, CSS, and JavaScript.  
 
 ---
 
