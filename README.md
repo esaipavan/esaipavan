@@ -53,6 +53,6 @@ Focused on Python, databases, and beginner-level data science.
 <img src="https://img.icons8.com/color/20/gmail-new.png"/> saipavanetikala5@gmail.com  
 💻 HackerRank: https://www.hackerrank.com/profile/azbysaipavan  
 
----
+---<br>
 
 ⭐ *Building consistently. Learning every day.*
