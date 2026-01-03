@@ -14,7 +14,7 @@ Focused on Python, databases, and beginner-level data science.
 - 🗄️ Interested in **MySQL & Database Management Systems**  
 - 🌐 Exploring **Web Development & Web Scraping**  
 - 📈 Beginner in **Data Science concepts**  
-- 🚀 Improving skills by building small projects regularly  
+- 🚀 Improving skills by building small projects 
 
 ---
 
