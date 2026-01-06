@@ -16,7 +16,7 @@ Focused on Python, databases, and beginner-level data science.
 - 📈 Beginner in **Data Science concepts**  
 - 🚀 Improving skills by building small projects 
 
----
+--------
 
 ## 🛠️ Tech Stack
 
