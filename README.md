@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etikala Sai Pavan</h1>
-<h3 align="center">Python & Web Development | Database & Data Enthusiast</h3>
+<h3 align="center">Data Analyst | Database & Data Enthusiast</h3>
 
 <p align="center">
 I’m passionate about learning programming and building simple, real-world projects.
